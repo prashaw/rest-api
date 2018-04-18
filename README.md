@@ -1,7 +1,7 @@
 
 ## Rest API Instructions
 To run this program, you should download this program to local. If you have not yet install flask, you can install flask from http://flask.pocoo.org. In the terminal, you can type in ```FLASK_APP=restaurant_api.py flask run``` to run the program
-
+For any problems you can contact me at prw19 at pitt dot edu
 
 ### GET
 ```
