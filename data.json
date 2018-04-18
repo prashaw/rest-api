@@ -1,0 +1,39 @@
+{
+        "kfc": {
+                "id": "kfc",
+                "menu": {
+                        "breakfast": [
+                                {"dish":"fried chicken", "restaurant":"kfc"}
+                        ],
+                        "lunch": [
+                                {"dish":"another fried chicken", "restaurant":"kfc"}
+                        ],
+                        "dinner": [
+                                {"dish":"yet another fried chicken", "restaurant":"kfc"}
+                        ],
+                        "drinks": [
+                                {"dish": "coke", "restaurant": "kfc"}
+                        ]
+
+                }
+        },
+        "mc": {
+                "id": "kfc",
+                "menu": {
+                        "breakfast": [
+                                {"dish":"fried chicken", "restaurant":"mc"}
+                        ],
+                        "lunch": [
+                                {"dish":"another fried chicken", "restaurant":"mc"}
+                        ],
+                        "dinner": [
+                                {"dish":"yet another fried chicken", "restaurant":"mc"}
+                        ],
+                        "drinks": [
+                                {"dish": "coke", "restaurant": "mc"}
+                        ]
+
+                }
+        }
+
+}
